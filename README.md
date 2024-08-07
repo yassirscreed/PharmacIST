@@ -86,6 +86,7 @@ We have implemented the following additional features:
 7. Use the app as you please. The way the project works is presented in the report.
 
 **Side Note:** The barcode reader does not work on the emulator; it only works with non-emulated smartphones. So, when the button to scan a barcode is clicked, it will do nothing.
+And also the APIs will most likely not work since the keys has been removed.
 
 ### Using a Real Android Smartphone
 
