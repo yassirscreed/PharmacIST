@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865906497580",
+    "project_id": "pharmacyist-backend",
+    "storage_bucket": "pharmacyist-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "PUTIDHERE",
+        "android_client_info": {
+          "package_name": "com.ist.pharmacist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "PUTKEYHERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
